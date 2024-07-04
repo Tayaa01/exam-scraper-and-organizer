@@ -120,6 +120,57 @@ try:
                 'https://9raya.tn/امتحانات-السنة-الثالثة-ابتدائي/?_sft_category=ثالثة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_matiere=فرنسية',
                 'https://9raya.tn/إمتحانات-الثلاثي-الثالث-في-اللغة-الفرنسية/?_sft_category=ثالثة-اساسي&_sft_trimestre=الثلاثي-الثالث&_sft_matiere=فرنسية'
             ]
+        },
+        'Fourth Year': {
+            'Mathematics': [
+                'https://9raya.tn/امتحانات-في-الرياضيات-الثلاثي-الأول-2/?_sft_category=رابعة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=رياضيات&_sft_type_matiere=امتحان',
+                'https://9raya.tn/امتحانات-رياضيات-الثلاثي-الثاني/?_sft_category=رابعة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_matiere=رياضيات&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-رياضيات-الثلاثي-الثالث-2/?_sft_category=رابعة-اساسي&_sft_trimestre=الثلاثي-الثالث&_sft_matiere=رياضيات&_sft_type_matiere=امتحان'
+            ],
+            'Science': [
+                'https://9raya.tn/إمتحانات-إيقاظ-علمي-2020-مخفف/?_sft_category=رابعة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=ايقاظ-علمي&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-إيقاظ-علمي-الثلاثي-الثاني/?_sft_category=رابعة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-إيقاظ-علمي-الثلاثي-الثالث/?_sft_category=رابعة-اساسي&_sft_trimestre=الثلاثي-الثالث&_sft_matiere=ايقاظ-علمي'
+            ],
+            'French': [
+                'https://9raya.tn/إمتحانات-فرنسية-الثلاثي-الأول/?_sft_category=رابعة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=فرنسية&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-فرنسية-الثلاثي-الثاني/?_sft_category=رابعة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_matiere=فرنسية&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-lecture-et-comprehension-الثلاثي-الثالث/'
+            ]
+        },
+        'Fifth Year': {
+            'Mathematics': [
+                'https://9raya.tn/إمتحانات-رياضيات-الثلاثي-الأول/?_sft_category=خامسة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=رياضيات',
+                'https://9raya.tn/إمتحانات-الرياضيات-الثلاثي-الثاني/?_sft_category=خامسة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_matiere=رياضيات&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-رياضيات-الثلاثي-الثالث-3/?_sft_category=خامسة-اساسي&_sft_trimestre=الثلاثي-الثالث&_sft_matiere=رياضيات&_sft_type_matiere=امتحان'
+            ],
+            'Science': [
+                'https://9raya.tn/إمتحانات-الثلاثي-الأول-إيقاظ-علمي/?_sft_category=خامسة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=ايقاظ-علمي&_sft_type_matiere=امتحان',
+                'https://9raya.tn/أستعدّ-لإمتحان-الإيقاظ-العلمي-الثلاث/?_sft_category=خامسة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_matiere=ايقاظ-علمي&_sft_type_matiere=امتحان',
+                'https://9raya.tn/امتحانات-ايقاظ-علمي-الثلاثي-الثالث-2/?_sft_category=خامسة-اساسي&_sft_trimestre=الثلاثي-الثالث&_sft_matiere=ايقاظ-علمي&_sft_type_matiere=امتحان'
+            ],
+            'French': [
+                'https://9raya.tn/إمتحانات-فرنسية-مع-الاصلاح/?_sft_category=خامسة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=فرنسية&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-lecture-comprehension-الثلاثي-الثاني-2/?_sft_category=خامسة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_type_matiere=امتحان',
+                'https://9raya.tn/امتحانات-lecture-comprehension-الثلاثي-الثالث/'
+            ]
+        },
+        'Sixth Year': {
+            'Mathematics': [
+                'https://9raya.tn/إمتحانات-في-الرياضيات-الثلاثي-الأول/?_sft_category=سادسة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=رياضيات&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-رياضيات-الثلاثي-الثاني/?_sft_category=سادسة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_matiere=رياضيات&_sft_type_matiere=امتحان',
+                'https://9raya.tn/تقييمات-رياضيات-الثلاثي-الثالث-7/?_sft_category=سادسة-اساسي&_sft_trimestre=الثلاثي-الثالث&_sft_matiere=رياضيات&_sft_type_matiere=امتحان'
+            ],
+            'Science': [
+                'https://9raya.tn/إمتحانات-الثلاثي-الأول-في-الإيقاظ-الع/?_sft_category=سادسة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=ايقاظ-علمي&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحان-إيقاظ-علمي-الإصلاح-الثلاثي-الث/?_sft_category=سادسة-اساسي&_sft_trimestre=الثلاثي-الثاني&_sft_matiere=ايقاظ-علمي&_sft_type_matiere=امتحان',
+                'https://9raya.tn/مناظرات-تجريبية-الإصلاح-إيقاظ-علمي/?_sft_category=سادسة-اساسي&_sft_trimestre=الثلاثي-الثالث&_sft_matiere=ايقاظ-علمي&_sft_type_matiere=امتحان'
+            ],
+            'French': [
+                'https://9raya.tn/إمتحانات-lecture-comprehension-الثلاثي-الأول/?_sft_category=سادسة-اساسي&_sft_trimestre=الثلاثي-الأول&_sft_matiere=فرنسية&_sft_type_matiere=امتحان',
+                'https://9raya.tn/إمتحانات-expression-ecrite-الثلاثي-الثاني/?_sft_category=سادسة-اساسي&_sft_type_matiere=امتحان&_sft_trimestre=الثلاثي-الثاني',
+                'https://9raya.tn/مناظرة-تجريبية-فرنسية/?_sft_category=سادسة-اساسي&_sft_trimestre=الثلاثي-الثالث&_sft_matiere=فرنسية&_sft_type_matiere=امتحان'
+            ]
         }
     }
 
